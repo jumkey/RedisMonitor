@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RedisMonitor</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_contacts">联系人</string>
+    <string name="no_data">没有数据</string>
+    <string name="btn_qr">二维码</string>
+
+</resources>
